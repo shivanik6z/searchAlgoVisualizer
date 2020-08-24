@@ -11,4 +11,4 @@ This app helps visualising two of the most popular searching techniques - Linear
 # binary search demo-
 
 
-![binarysearch](binarysearch,gif)
+![binarysearch](binarysearch.gif)
